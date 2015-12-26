@@ -27,7 +27,7 @@
     "abstract-leveldown": "^2.0.3"
   },
   "devDependencies": {
-    "tape": "*",
+    "tape": "4.4.0",
     "rimraf": "*",
     "bench": "*",
     "faucet": "*"
