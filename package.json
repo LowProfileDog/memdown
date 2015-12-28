@@ -30,7 +30,7 @@
     "tape": "*",
     "rimraf": "*",
     "bench": "*",
-    "faucet": "*"
+    "faucet": "0.0.1"
   },
   "browser": {
     "rimraf": false
