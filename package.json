@@ -29,7 +29,7 @@
   "devDependencies": {
     "bench": "*",
     "faucet": "*",
-    "istanbul": "^0.4.2",
+    "istanbul": "^0.4.4",
     "istanbul-coveralls": "^1.0.3",
     "jshint": "^2.9.1",
     "rimraf": "*",
